@@ -20,7 +20,7 @@ jobs:
           node-version: ${{ inputs.node }}
 
       - name: Install NPM dependencies
-        run: npm ci
+        run: npm i
 
       - name: Compile assets
         run: npm run production
