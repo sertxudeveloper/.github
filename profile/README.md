@@ -10,14 +10,14 @@ We sometimes write [tutorials](https://www.sertxudeveloper.com/blog) too!
 
 ### Our Open Source contribution
 
-We love Laravel and whether we can we contribute to the Laravel ecosystem.
+We love Laravel and whether we can contribute to the Laravel ecosystem.
 
-Here are some of our open source packages:
+Here are some of our open-source packages:
 
 - [Lyra admin](https://github.com/sertxudeveloper/Lyra): Adds a customizable administration panel for managing your app.
 - [laravel-sitemap](https://github.com/sertxudeveloper/laravel-sitemap): Create a sitemap from your app.
 - [laravel-translatable](https://github.com/sertxudeveloper/laravel-translatable): Adds multilanguage support for your app and translate your models.
-- [laravel-media-model](https://github.com/sertxudeveloper/laravel-media-model): Attach medua files to your models and create media collections.
+- [laravel-media-model](https://github.com/sertxudeveloper/laravel-media-model): Attach media files to your models and create media collections.
 - [livewire-combobox](https://github.com/sertxudeveloper/livewire-combobox): A searchable combobox for your Livewire forms.
 - [laravel-lock-screen](https://github.com/sertxudeveloper/laravel-lock-screen): Adds a lock screen to your app to keep your users secured.
 
@@ -25,7 +25,7 @@ Here are some of our open source packages:
 
 ### Our commercial products
 
-We have some commercial products that helps us keep mantaining our open source packages:
+We have some commercial products that help us keep maintaining our open-source packages:
 
 - [Cuelist](https://cuelist.app): Helps you coordinate your team in a live show.
 
