@@ -25,7 +25,7 @@ Here are some of our open-source packages:
 
 ### Our commercial products
 
-We have some commercial products that help us keep maintaining our open-source packages:
+We have some commercial products that help us continue to maintain our open-source packages:
 
 - [Cuelist](https://cuelist.app): Helps you coordinate your team in a live show.
 
