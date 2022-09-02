@@ -31,4 +31,4 @@ We have some commercial products that help us continue to maintain our open-sour
 
 You can help with our open source efforts in many ways: by resolving open issues or just by sharing our packages and products with your friends or colleges.
 
-You can also sponsor our open source work via [Open Collective](https://opencollective.com/sertxudeveloper).
+You can also sponsor our open source work via [Buy Me a Coffee](https://buymeacoffee.com/sertxudeveloper).
