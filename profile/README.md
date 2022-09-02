@@ -31,4 +31,4 @@ We have some commercial products that help us continue to maintain our open-sour
 
 You can help with our open source efforts in many ways: by resolving open issues or just by sharing our packages and products with your friends or colleges.
 
-You can also sponsor our open source work via GitHub Sponsors or buy some merch from us.
+You can also sponsor our open source work via [Open Collective](https://opencollective.com/sertxudeveloper).
