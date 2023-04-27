@@ -20,6 +20,7 @@ Here are some of our open-source packages:
 - [laravel-media-model](https://github.com/sertxudeveloper/laravel-media-model): Attach media files to your models and create media collections.
 - [livewire-combobox](https://github.com/sertxudeveloper/livewire-combobox): A searchable combobox for your Livewire forms.
 - [laravel-lockscreen](https://github.com/sertxudeveloper/laravel-lockscreen): Adds a lock screen to your app to keep your users secured.
+- [laravel-pagination](https://github.com/sertxudeveloper/laravel-pagination): An opinionated custom Laravel pagination.
 
 **⭐ We've also built our own [lightweight Markdown JS editor](https://github.com/sertxudeveloper/markdown-editor)!**
 
