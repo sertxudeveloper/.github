@@ -1,12 +1,10 @@
 
-# Hello everyone 👋
+# Sertxu Developer
 
 <br><br>
-<p align="center"><a href="https://sertxu.dev" target="_blank"><img src="https://www.sertxudeveloper.com/assets/logo.svg" width="400"></a></p>
-<br><br>
 
-Sertxu Developer creates web apps and open source packages mainly in the Laravel ecosystem.
-We sometimes write [tutorials](https://www.sertxudeveloper.com/blog) too!
+We create web applications and open source packages mainly in the Laravel ecosystem.
+We sometimes write [tutorials](https://sertxu.dev/blog) too!
 
 ### Our Open Source contribution
 
